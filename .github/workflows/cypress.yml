@@ -33,7 +33,7 @@ jobs:
 
 
     - name: Generate Allure Report
-      run: npx allure generate allure-results --output allure-report --clean --report-title “title you want to use”
+      run: npx allure generate allure-results --output allure-report --clean
 
 
     - name: Deploy Allure report to GitHub Pages
