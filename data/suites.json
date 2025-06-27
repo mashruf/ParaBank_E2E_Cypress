@@ -1,1 +1,1 @@
-{"uid":"98d3104e051c652961429bf95fa0b5d6","name":"suites","children":[]}
+{"uid":"98d3104e051c652961429bf95fa0b5d6","name":"suites","children":[{"name":"Registration","children":[{"name":"Registration with valid details","uid":"705590d8fb86a6e","parentUid":"301dada502bac88cb527b4700e929d52","status":"passed","time":{"start":1751044531955,"stop":1751044535775,"duration":3820},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"301dada502bac88cb527b4700e929d52"}]}
