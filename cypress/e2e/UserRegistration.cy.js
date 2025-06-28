@@ -20,7 +20,7 @@ describe("Registration",()=>{
         cy.get("div[id='rightPanel']>p").should("contain","Your account was created successfully. You are now logged in.");
     })
 
-    it.only("Register with missing fields",()=>{
+    it("Register with missing fields",()=>{
         cy.url().should("include","/register.htm");
         cy.get("input[value='Register']").click();
         cy.get("span[id='customer.firstName.errors']").should("contain","First name is required.");
