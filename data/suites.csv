@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3555","Registration with valid details","","Fri Jun 27 17:20:12 UTC 2025","passed","Fri Jun 27 17:20:16 UTC 2025","","Registration","",""
+"","1214","Register with missing fields","","Sat Jun 28 12:14:57 UTC 2025","passed","Sat Jun 28 12:14:58 UTC 2025","","Registration","",""

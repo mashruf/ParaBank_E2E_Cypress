@@ -1,1 +1,1 @@
-[{"uid":"c3b91c56e6a8920","name":"Registration with valid details","time":{"start":1751044812872,"stop":1751044816427,"duration":3555},"status":"passed","severity":"normal"}]
+[{"uid":"2c273f9a3f69e4e2","name":"Register with missing fields","time":{"start":1751112897603,"stop":1751112898817,"duration":1214},"status":"passed","severity":"normal"}]
