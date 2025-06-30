@@ -1,3 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","3777","Registration with valid details","","Sat Jun 28 14:53:15 UTC 2025","passed","Sat Jun 28 14:53:19 UTC 2025","","Registration","",""
-"","507","Register with missing fields","","Sat Jun 28 14:53:19 UTC 2025","passed","Sat Jun 28 14:53:19 UTC 2025","","Registration","",""
+"","1010","Register with missing fields","","Mon Jun 30 09:14:08 UTC 2025","passed","Mon Jun 30 09:14:09 UTC 2025","","Registration","",""
+"","4838","Registration with valid details","","Mon Jun 30 09:14:03 UTC 2025","passed","Mon Jun 30 09:14:08 UTC 2025","","Registration","",""
+"","3568","Password mismatch during registration","","Mon Jun 30 09:14:09 UTC 2025","passed","Mon Jun 30 09:14:13 UTC 2025","","Registration","",""
