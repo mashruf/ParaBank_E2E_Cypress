@@ -35,4 +35,11 @@ describe("Registration",()=>{
         cy.get("span[id='repeatedPassword.errors']").should("contain","Password confirmation is required.");
     })
 
+    it("Password mismatch during registration",()=>{
+        cy.url().should("include","/register.htm");
+        reg.passwordMismatchDuringRegistration();
+        cy.get("input[value='Register']").click();
+        cy.get("span[id='repeatedPassword.errors']").should("contain","Passwords did not match.");
+    })
+
 })
